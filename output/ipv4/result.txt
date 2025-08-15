@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2025-08-15 06:42:04,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-15 18:46:58,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV-5+,http://125.125.234.156:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 
 📡卫视频道,#genre#
@@ -12,6 +13,7 @@ CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+重庆卫视,http://115.48.160.227:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
