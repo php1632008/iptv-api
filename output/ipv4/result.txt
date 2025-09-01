@@ -1,24 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-01 18:46:13,http://www.cdnstv.com:6398/hls/1/index.m3u8
+2025-09-02 06:36:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8
-CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8
-CCTV-3,http://www.cdnstv.com:6398/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://www.cdnstv.com:6398/hls/4/index.m3u8
-CCTV-5,http://www.cdnstv.com:6398/hls/5/index.m3u8
-CCTV-6,http://www.cdnstv.com:6398/hls/6/index.m3u8
-CCTV-7,http://www.cdnstv.com:6398/hls/7/index.m3u8
-CCTV-8,http://www.cdnstv.com:6398/hls/8/index.m3u8
-CCTV-9,http://www.cdnstv.com:6398/hls/9/index.m3u8
-CCTV-10,http://www.cdnstv.com:6398/hls/10/index.m3u8
-CCTV-11,http://www.cdnstv.com:6398/hls/11/index.m3u8
-CCTV-12,http://www.cdnstv.com:6398/hls/12/index.m3u8
-CCTV-13,http://www.cdnstv.com:6398/hls/13/index.m3u8
-CCTV-14,http://www.cdnstv.com:6398/hls/14/index.m3u8
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
-CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -26,7 +10,8 @@ CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
