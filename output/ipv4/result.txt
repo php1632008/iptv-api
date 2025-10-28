@@ -1,14 +1,28 @@
 🕘️更新时间,#genre#
-2025-10-28 18:23:15,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-29 06:24:51,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+河北卫视,http://sh.lnott.top:880/dx63.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
