@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-23 18:26:00,http://120.211.62.180:8000/hls/10/index.m3u8
+2025-12-24 06:20:56,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-10,http://120.211.62.180:8000/hls/10/index.m3u8
-CCTV-12,http://120.211.62.180:8000/hls/12/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
